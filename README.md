@@ -11,7 +11,7 @@
 
  * 캐릭터의 현재 생존여부를 판단하는 IsDead() 함수가 있다.
 
- * 해당 클래스를 상속하기 위하여 
+ * 해당 클래스를 상속하여 새로운 캐릭터를 만들고 싶다면 .h 파일에 #include "Character/CharacterBase.h"를 추가한다.
    
 ## CharacterBase.cpp
 
